@@ -1,5 +1,5 @@
 # VYA-Proje2
-Veri Yapıları ve Algoritmalar Proje 1
+Veri Yapıları ve Algoritmalar Proje 2
 
 ## [16,21,11,8,12,22] merge sort
 
